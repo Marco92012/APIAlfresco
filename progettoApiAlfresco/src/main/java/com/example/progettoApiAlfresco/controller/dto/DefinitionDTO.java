@@ -1,6 +1,5 @@
 package com.example.progettoApiAlfresco.controller.dto;
 
-
 import java.util.Set;
 
 import lombok.Getter;
@@ -10,5 +9,5 @@ import lombok.Setter;
 @Setter
 public class DefinitionDTO {
 
-    private Set<PropertyDTO> propertiesDTO;
+    private Set<PropertyDTO> properties;
 }

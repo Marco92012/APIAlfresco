@@ -14,5 +14,4 @@ public class PermissionElementDTO {
     private String name;
 
     private AccessStatusEnum accessStatus;
-
 }

@@ -1,6 +1,6 @@
 package com.example.progettoApiAlfresco.controller.dto;
 
-import com.fasterxml.jackson.databind.JsonNode;
+import com.jayway.jsonpath.internal.filter.ValueNodes.JsonNode;
 
 import lombok.Getter;
 import lombok.Setter;
